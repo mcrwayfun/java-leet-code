@@ -9,4 +9,4 @@
 
 
 
-[026]: 
+[026]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/026/README.md

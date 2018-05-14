@@ -5,8 +5,9 @@
 
 | #    | Title                                    | Tag                                      |
 | :--- | :--------------------------------------- | :--------------------------------------- |
-| 26    | [Remove Duplicates from Sorted Array][026]                           | Array                                    
-
+| 26   | [Remove Duplicates from Sorted Array][026]                           | Array                                    
+| 122  | [Best Time to Buy and Sell Stock II][122]                            | Array          
 
 
 [026]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/026/README.md
+[122]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/122/README.md

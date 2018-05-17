@@ -35,15 +35,17 @@ Output: true
 3. count < nums.length - 1，只有循环到倒数第二个数即可。
 
 ```java
-class Solution {
+class Solution { 
+    public boolean containsDuplicate(int[] nums) {
         // 排序
         Arrays.sort(nums);
         // 比较，值相同必定相邻
         for (int i = 0; i < nums.length - 1; i++) {
             if(nums[i] == nums[i+1])
-                return true;
+                 return true; 
         }
-        return false;
+        return false; 
+    }
 }
 ```
 
@@ -53,14 +55,16 @@ class Solution {
 
 ```java
 class Solution {
+    public boolean containsDuplicate(int[] nums) {
    
-        Set<Integer> set = new HashSet<>(nums.length);
-        // 利用set比较
-        for(int x:nums){
-            if(!set.add(x))
-                return true;
-        }
-        return false;
+       Set<Integer> set = new HashSet<>(nums.length);
+       // 利用set比较
+       for(int x:nums){
+          if(!set.add(x))
+              return true;
+       }
+       return false; 
+     }
 }
 ```
 

@@ -64,8 +64,8 @@ Explanation: Same as Example 1, except with the 5 in the top left corner being
 
 该数独九宫格必定要合法，但不一定可解。
 ## 思路1 
-不一定要解出这个九宫格，所以我们只用判断，当前存在的数是否符合条件即可，利用HashSet的特性：不可存在重复元素来解决。
-将大的九宫格分为九个小宫格，行和列通过循环可以直接判断，**每一小格（九宫格）是否不重复**可以通过将
+不用解出这个九宫格，只需要判断当前存在的数是否符合条件即可，利用HashSet的特性：不可存在重复元素来解决。
+将大的九宫格分为九个小宫格，行和列通过循环可以直接判断，**每一小格（九宫格）是否不重复**可以通过将`i/3,j/3`划分为同一个小宫格来判断是否重复。
 - `5 in column 0`可以被解读为第一列有数字5
 - `6 in row 0`可以解读为第一行有数字6
 - `5 in block 0-0`可以解读为第一个小宫格
@@ -88,6 +88,8 @@ class Solution {
     }
 }
 ```
+分析：
+- Time complexity：O(n^2)
 
 
 [title]: https://leetcode.com/problems/valid-sudoku/description/

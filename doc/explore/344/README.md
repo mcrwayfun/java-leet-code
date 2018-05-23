@@ -10,7 +10,7 @@ Write a function that takes a string as input and returns the string reversed.
 Given s = "hello", return "olleh".
 ```
 
-**Tags:** string
+**Tags:** String
 
 ## 解读题意
 将字符串反转

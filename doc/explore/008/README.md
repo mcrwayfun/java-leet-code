@@ -1,80 +1,119 @@
-# [Two Sum][title]
+# [String to Integer][title]
 
 ## Description
 
-Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+Implement atoi which converts a string to an integer.
 
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
+The function first discards as many whitespace characters as necessary until the first non-whitespace character is found. Then, starting from this character, takes an optional initial plus or minus sign followed by as many numerical digits as possible, and interprets them as a numerical value.
+
+The string can contain additional characters after those that form the integral number, which are ignored and have no effect on the behavior of this function.
+
+If the first sequence of non-whitespace characters in str is not a valid integral number, or if no such sequence exists because either str is empty or it contains only whitespace characters, no conversion is performed.
+
+If no valid conversion could be performed, a zero value is returned.
 
 **Example 1:**
 
 ```
-Given nums = [2, 7, 11, 15], target = 9,
+Input: "42"
+Output: 42
+```
+**Example 2:**
 
-Because nums[0] + nums[1] = 2 + 7 = 9,
-return [0, 1].
+```
+Input: "   -42"
+Output: -42
+Explanation: The first non-whitespace character is '-', which is the minus sign.
+             Then take as many numerical digits as possible, which gets 42.
+```
+**Example 3:**
+
+```
+Input: "4193 with words"
+Output: 4193
+Explanation: Conversion stops at digit '3' as the next character is not a numerical digit.
+```
+**Example 4:**
+
+```
+Input: "words and 987"
+Output: 0
+Explanation: The first non-whitespace character is 'w', which is not a numerical 
+             digit or a +/- sign. Therefore no valid conversion could be performed.
+```
+**Example 5:**
+
+```
+Input: "-91283472332"
+Output: -2147483648
+Explanation: The number "-91283472332" is out of the range of a 32-bit signed integer.
+             Thefore INT_MIN (−231) is returned.
 ```
 **note**
-1. You must do this in-place without making a copy of the array.
-2. Minimize the total number of operations.
+1. Only the space character ' ' is considered as whitespace character.
+2. Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: [−2^31,  2^31 − 1]. If the numerical value is out of the range of representable values, INT_MAX (2^31 − 1) or INT_MIN (−2^31) is returned.
 
 
-**Tags:** Array，HashTable
+**Tags:** String Array
 
 
 ## 解读题意
-给定一个数组，数组中某两个数加起来等于指定数，求这两个数的下标。
+获取字符串中的数字，需要符合以下要求。
+这道题有点怪，不解释
+- 空格为无效字符
+- 首字符为字母，返回0
+- 数字溢出，返回相应的INT_MAX或INT_MIN
 
 ## 思路1 
-假设nums为该数组，target为指定数
-
-1. 遍历循环每个元素x，找出是否有能够满足target-x的另一个值
-
 
 ```java
 class Solution { 
-  
-    public int[] twoSum(int[] nums, int target) {
+  public int myAtoi(String str) {
 
-        for (int i = 0; i < nums.length; i++) {
-            for (int j = i + 1; j < nums.length; j++) {
-                if(nums[i] + nums[j] == target){
-                    return new int[]{i, j};
-                }
+        int start = 0;
+        int end = str.length();
+        char[] chars = str.toCharArray();
+
+        // 首字符为字母
+        if ((chars[start] >= 'a' && chars[start] <= 'z') ||
+                (chars[start] >= 'A' && chars[start] <= 'Z'))
+            return 0;
+
+        int result = 0;
+        int sign = 1;
+        while (start < end) {
+
+            char num = chars[start];
+
+            // 空字符串
+            if (chars[start] == ' ')
+                start++;
+                // 字母
+            else if ((chars[start] >= 'a' && chars[start] <= 'z') ||
+                    (chars[start] >= 'A' && chars[start] <= 'Z'))
+                start++;
+                // 符号
+            else if (chars[start] == '+' || chars[start] == '-') {
+                sign = chars[start] == '+' ? 1 : -1;
+                start++;
             }
+            // 数字
+            else if (chars[start] >= '0' && chars[start] <= '9') {
+                int newResult = result * 10 + (num - '0');
+                if ((newResult / 10) != result)
+                    return sign == 1 ? Integer.MAX_VALUE : Integer.MIN_VALUE;
+                result = newResult;
+                start++;
+            }
+
         }
 
-        throw new IllegalArgumentException("No two sum solution");
-    }
-}
-```
-分析：
-- Time complexity：O(n^2)，外层循环n次，内层循环n-1次，所以时间复杂度为O(n^2)
-- Space complexity：O(1)，空间负责度为常数
-
-## 思路2
-思路1用了最暴力循环的方式，两次循环找出了答案，时间复杂度为O(n^2)，但是有更好的方法来解决：使用HashMap作为存储。`key`为当前值，value为索引。此时要先判断`target - nums[i] = 9 - 2 = 7`是否存在于map中，若不存在，则插入键值`key = 2,value = 0`；之后`i = 1，num[1] = 7`，此时`9 - 7 = 2`,`nums[0] = 2`已经存在于map中，那么`value = 0 = map.get(2)`取出值作为第一个返回值，当前`i`作为第二个返回值。
-
-```java
-class Solution { 
-   public int[] twoSum(int[] nums, int target) {
-
-        Map<Integer,Integer> map = new HashMap<>();
-        int n = nums.length;
-        for(int i=0;i<n;i++){
-            int sub = target - nums[i];
-            if(map.containsKey(sub))
-                return new int[]{map.get(sub),i};
-            map.put(nums[i],i);
-        }
-
-        throw new IllegalArgumentException("No two sum solution");
+        return result * sign;
     }
 }
 ```
 分析：
 - Time complexity：O(n)
-- Space complexity：O(n)
 
 
-[title]: https://leetcode.com/problems/two-sum/description/
+[title]: https://leetcode.com/problems/string-to-integer-atoi/description/

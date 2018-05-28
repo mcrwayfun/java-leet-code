@@ -7,6 +7,7 @@
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
 | 001  | [Two Sum][001]                                           | Array HashTable 
 | 007  | [Reverse Integer][007]                                   | String 
+| 008  | [String to Integer][008]                                 | String Array
 | 026  | [Remove Duplicates from Sorted Array][026]               | Array 
 | 036  | [Valid Sudoku][036]                                      | Array HashSet
 | 048  | [Rotate Image][048]                                      | Array
@@ -23,6 +24,7 @@
 
 [001]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/001/README.md
 [007]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/007/README.md
+[008]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/008/README.md
 [026]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/026/README.md
 [036]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/036/README.md
 [048]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/048/README.md

@@ -1,5 +1,7 @@
 package com.qingtian.explore._019;
 
+import com.qingtian.pojo.ListNode;
+
 /**
  * @Author mcrwayfun
  * @Description
@@ -7,14 +9,6 @@ package com.qingtian.explore._019;
  */
 public class Solution {
 
-    static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
-    }
 
     public ListNode removeNthFromEnd(ListNode head, int n) {
         if (head == null)

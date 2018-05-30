@@ -9,6 +9,8 @@ package com.qingtian.explore._237;
  * }
  */
 
+import com.qingtian.pojo.ListNode;
+
 /**
  * @Author mcrwayfun
  * @Description
@@ -16,14 +18,6 @@ package com.qingtian.explore._237;
  */
 public class Solution {
 
-    static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
-    }
 
     public void deleteNode(ListNode node) {
         node.next = node.next.next;

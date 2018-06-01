@@ -19,6 +19,7 @@
 | 122  | [Best Time to Buy and Sell Stock II][122]                | Array 
 | 125  | [Valid Palindrome][125]                                  | String Array 
 | 136  | [Single Number][136]                                     | Array            
+| 141  | [Linked List Cycle][141]                                 | LinkedList   
 | 189  | [Rotate Array][189]                                      | Array   
 | 206  | [Reverse a singly linked list][206]                      | LinkedList   
 | 217  | [Contains Duplicate][217]                                | Array
@@ -43,6 +44,7 @@
 [122]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/122/README.md
 [125]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/125/README.md
 [136]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/136/README.md
+[141]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/141/README.md
 [189]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/189/README.md
 [206]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/206/README.md
 [217]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/217/README.md

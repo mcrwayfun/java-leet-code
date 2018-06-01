@@ -10,7 +10,7 @@
 | 008  | [String to Integer][008]                                 | String Array
 | 014  | [Longest Common Prefix][014]                             | String Array
 | 019  | [Remove Nth Node From End of List][019]                  | LinkedList
-| 024  | [Merge Two Sorted Lists][024]                            | LinkedList
+| 021  | [Merge Two Sorted Lists][021]                            | LinkedList
 | 026  | [Remove Duplicates from Sorted Array][026]               | Array 
 | 028  | [Implement strStr][028]                                  | String Array 
 | 036  | [Valid Sudoku][036]                                      | Array HashSet
@@ -33,7 +33,7 @@
 [008]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/008/README.md
 [014]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/014/README.md
 [019]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/019/README.md
-[024]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/024/README.md
+[021]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/021/README.md
 [026]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/026/README.md
 [028]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/028/README.md
 [036]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/036/README.md

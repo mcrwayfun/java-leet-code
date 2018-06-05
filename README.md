@@ -1,7 +1,7 @@
 # java-leet-code
 每天一道leetCode，保持思维活跃
 
-## explore
+## explore（27）
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
@@ -16,7 +16,8 @@
 | 036  | [Valid Sudoku][036]                                      | Array HashSet
 | 048  | [Rotate Image][048]                                      | Array
 | 065  | [Plus One][065]                                          | Array                                   
-| 098  | [Validate Binary Search Tree][098]                       | Tree                                   
+| 098  | [Validate Binary Search Tree][098]                       | Tree 
+| 101  | [Symmetric Tree][101]                       			  | Tree                                   
 | 104  | [Maximum Depth of Binary Tree][104]                      | Tree                                   
 | 122  | [Best Time to Buy and Sell Stock II][122]                | Array 
 | 125  | [Valid Palindrome][125]                                  | String Array 
@@ -44,6 +45,7 @@
 [048]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/048/README.md
 [065]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/065/README.md
 [098]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/098/README.md
+[101]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/101/README.md
 [104]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/104/README.md
 [122]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/122/README.md
 [125]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/125/README.md

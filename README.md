@@ -1,7 +1,7 @@
 # java-leet-code
 每天一道leetCode，保持思维活跃
 
-## explore（29）
+## explore（30）
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
@@ -16,6 +16,7 @@
 | 036  | [Valid Sudoku][036]                                      | Array HashSet
 | 048  | [Rotate Image][048]                                      | Array
 | 065  | [Plus One][065]                                          | Array                                   
+| 088  | [Merge Sorted Array][088]                                | Array Sorted                                   
 | 098  | [Validate Binary Search Tree][098]                       | Tree 
 | 101  | [Symmetric Tree][101]                       			  | Tree     
 | 102  | [Binary Tree Level Order Traversal][102]                 | Tree                                   
@@ -46,6 +47,7 @@
 [036]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/036/README.md
 [048]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/048/README.md
 [065]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/065/README.md
+[088]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/088/README.md
 [098]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/098/README.md
 [101]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/101/README.md
 [102]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/102/README.md

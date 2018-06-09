@@ -32,6 +32,7 @@
 | 234  | [Palindrome Linked List][234]                            | LinkedList
 | 237  | [Delete Node in a Linked List][237]                      | LinkedList
 | 242  | [Valid Anagram][242]                                     | String Array 
+| 278  | [First Bad Version][278]                                 | Array 
 | 283  | [Move Zeroes][283]                                		  | Array  
 | 344  | [Reverse String][344]                                	  | String  
 | 387  | [First Unique Character in a String][387]                | String HashTable
@@ -63,6 +64,7 @@
 [234]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/234/README.md
 [237]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/237/README.md
 [242]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/242/README.md
+[278]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/278/README.md
 [283]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/283/README.md
 [344]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/344/README.md
 [387]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/387/README.md

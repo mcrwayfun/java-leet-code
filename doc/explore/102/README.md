@@ -71,30 +71,33 @@ time complexity:O(n^2)
 2. 递归访问左右子结点，直到子结点为空
 
 ```java
-
-    public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>> relist = new ArrayList<>();
-        if (root == null)
-            return relist;
-
-        levelOrderHelper(root, 0, relist);
-        return relist;
-    }
-
-    private void levelOrderHelper(TreeNode root, int level, List<List<Integer>> relist) {
-
-        if(root == null)
-            return;
-
-        if(relist.size() <= level)
-            relist.add(new ArrayList<>());
-
-
-        relist.get(level).add(root.val);
-        levelOrderHelper(root.left,level+1,relist);
-        levelOrderHelper(root.right,level+1,relist);
-
-    }
+class solution{
+     public List<List<Integer>> levelOrder(TreeNode root) {
+           List<List<Integer>> relist = new ArrayList<>();
+           if (root == null)
+               return relist;
+   
+           levelOrderHelper(root, 0, relist);
+           return relist;
+       }
+   
+       private void levelOrderHelper(TreeNode root, int level, List<List<Integer>> relist) {
+   
+           if(root == null)
+               return;
+   
+           if(relist.size() <= level)
+               relist.add(new ArrayList<>());
+   
+   
+           relist.get(level).add(root.val);
+           levelOrderHelper(root.left,level+1,relist);
+           levelOrderHelper(root.right,level+1,relist);
+   
+       } 
+}
+  
+    
 ```
 
 time complexity:O(n)

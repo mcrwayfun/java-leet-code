@@ -101,6 +101,7 @@ time complexity:O(nlogn)
 3. `leftTag=true`则将区间[start,end)插入左结点，否则插入右结点
 
 现在假设有三个区间，分别是[10,20),[25,35),[36,39),则执行过程如下图所示：
+
 ![](https://i.imgur.com/O61x5G1.png)
 
 ```java

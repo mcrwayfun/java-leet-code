@@ -1,10 +1,5 @@
 package com.qingtian.medium._729;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
-import java.util.TreeMap;
-
 /**
  * @Author mcrwayfun
  * @Description
@@ -12,39 +7,6 @@ import java.util.TreeMap;
  */
 public class MyCalendar {
 
-
-    // TreeMap<Integer, Integer> tmap = new TreeMap<>();
-    // public MyCalendar() {
-    //
-    // }
-    //
-    // public boolean book(int start, int end) {
-    //
-    //     Map.Entry<Integer, Integer> floorEntry = tmap.floorEntry(start);
-    //     Map.Entry<Integer, Integer> ceilingEntry = tmap.ceilingEntry(start);
-    //
-    //     if (floorEntry != null && floorEntry.getValue() > start)
-    //         return false;
-    //
-    //     if (ceilingEntry != null && ceilingEntry.getKey() < end)
-    //         return false;
-    //
-    //     tmap.put(start, end);
-    //     return true;
-    // }
-
-//    TreeMap tm;
-//
-//    public MyCalendar() {
-//        tm = new TreeMap<Integer, Integer>();
-//    }
-//
-//    public boolean book(int start, int end) {
-//        Map.Entry<Integer, Integer> entry = tm.lowerEntry(end);
-//        if (entry != null && entry.getValue() > start) return false;
-//        tm.put(start, end);
-//        return true;
-//    }
 
     //节点有起始结束时间和左右子节点
     class Node {

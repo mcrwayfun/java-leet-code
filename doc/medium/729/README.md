@@ -34,53 +34,68 @@ The third event can be booked, as the first event takes every time less than 20,
 这道题的意思是检查区间是否重叠
 
 ## 思路1 
-如果有两个区间，分别是[s1,s2)和[e1,e2)。当`s2<=e1`或者`s1>=e2`，则这两个区间不会重叠。反之，当`s2>e1`并且`s1<e2`，则这两个区间重叠，利用这个思想来解决问题。
+如果有两个区间，分别是[s1,e1)和[s2,e2)，下列四种情况表示区间有交集：
+![](https://i.imgur.com/j2DVL56.png)
+判断是否有交集只用比较`max(s1,s2) < min(e1,e2)`，若为真，则表示有交集
 
 ```java
 public class MyCalendar {
 
-    List<int[]> calendar;
+    private List<int[]> calerdar;
 
     public MyCalendar() {
-        calendar = new ArrayList<>();
+        calerdar = new ArrayList<>();
     }
 
     public boolean book(int start, int end) {
-        for(int[] val:calendar){
-            if(val[0] < end && val[1] > start)
+
+        for (int[] val : calerdar)
+            if (Math.max(val[0], start) < Math.min(val[1], end))
                 return false;
-        }
-        calendar.add(new int[]{start,end});
+
+        calerdar.add(new int[]{start, end});
         return true;
     }
 }
 ```
-time complexity:O(n^2)，循环列表`calendar`花费O(n)，循环数组`val`花费O(n),所以共花了O(n^2)
+time complexity:O(n^2)。假设有n个event，每个event都不会造成double booking，每进行一次book花费O(i)(i<=n)，则n个event花费n*o(i)，故复杂度为O(n^2)
 
 ## 思路2
-利用`TreeMap`的性质：排序；
-1. `map.lowerEntry(key)`获取的是map中小于key且距离key数值最小的数
-2. 以步骤1获取的值为key（即start），获取value（即end）。如果`value>start`，则表明有重复的区间
+TreeMap本身具有排序的性质，通过TreeMap的`floorEntry`和`ceilingEntry`方法，
+- floorEntry：largest entry whose key <= given key
+- ceilingEntry：smallest entry whose key > given key
+
+区间有交集可以总结为以下两大类：
+
+![](https://i.imgur.com/7Ei7X7p.png)
 
 
 ```java
 public class MyCalendar {
 
-    TreeMap tm;
+    TreeMap<Integer,Integer> calendar;
 
-    public MyCalendar() {
-        tm = new TreeMap<Integer, Integer>();
+    public MyCalendar2() {
+        calendar = new TreeMap<>();
     }
 
     public boolean book(int start, int end) {
-        Map.Entry<Integer, Integer> entry = tm.lowerEntry(end);
-        if (entry != null && entry.getValue() > start) return false;
-        tm.put(start, end);
+
+        Map.Entry<Integer, Integer> floorEntry = calendar.floorEntry(start);
+        Map.Entry<Integer, Integer> ceilingEntry = calendar.ceilingEntry(start);
+
+        if(floorEntry != null && floorEntry.getValue() > start)
+            return false;
+
+        if(ceilingEntry != null && ceilingEntry.getKey() < end)
+            return false;
+
+        calendar.put(start,end);
         return true;
     }
 }
 ```
-time complexity:O(nlogn)
+time complexity:O(nlogn)。共有n个event，每次book操作花费O(logn)，故复杂度为O(nlogn)
 
 ## 思路3
 查找不重复的可以利用搜索二叉树，能够满足左结点<根结点<右结点，结点结构如下：
@@ -162,6 +177,6 @@ public class MyCalendar {
 }
 
 ```
-time complexity:O(n)
+time complexity:O(n^2)
 
 [title]: https://leetcode.com/problems/my-calendar-i/description/

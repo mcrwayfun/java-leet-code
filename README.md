@@ -44,11 +44,13 @@
 | 530  | [Minimum Absolute Difference in BST][530]                | Tree                                   
 | 783  | [Minimum Distance Between BST Nodes][783]                | Tree                                   
 
-## medium（1）
+## medium（2）
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
 | 729  | [My Calendar I][729]                					  | Tree                                   
+| 731  | [My Calendar II][731]                					  | Tree                                   
+
 
 
 [001]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/001/README.md
@@ -84,4 +86,5 @@
 [387]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/387/README.md
 [530]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/530/README.md
 [729]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/729/README.md
+[731]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/731/README.md
 [783]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/783/README.md

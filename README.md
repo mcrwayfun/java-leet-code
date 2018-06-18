@@ -51,7 +51,11 @@
 | 729  | [My Calendar I][729]                					  | Tree                                   
 | 731  | [My Calendar II][731]                					  | Tree                                   
 
+## hard（1）
 
+| #    | Title                                          		  | Tag                                      |
+| :--- | :------------------------------------------------------- | :--------------------------------------- |
+| 732  | [My Calendar III][732]                					  | Tree           
 
 [001]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/001/README.md
 [007]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/007/README.md
@@ -87,4 +91,5 @@
 [530]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/530/README.md
 [729]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/729/README.md
 [731]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/731/README.md
+[732]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/hard/732/README.md
 [783]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/783/README.md

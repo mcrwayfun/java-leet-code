@@ -42,6 +42,7 @@ the time [40, 50) will be single booked, and the time [50, 55) will be double bo
 ## 思路1 
 如果有两个区间，分别是[s1,e1)、[s2,e2)和[s3,e3),如图：
 ![](https://i.imgur.com/QwLv79O.png)
+
 分别有两个区间`overlaps`（存储重叠区域）和`booked`(存储正常event)
 1. 判断是否有与`overlaps`重叠，如果有，则说明已经存在两个重叠区域，直接返回false
 2. 判断新加入的event是否与`booked`中的event重叠（**如图中黄线到红线区域**），若有，则将重叠区域加入`overlaps`

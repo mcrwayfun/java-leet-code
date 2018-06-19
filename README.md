@@ -43,6 +43,8 @@
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
 | 530  | [Minimum Absolute Difference in BST][530]                | Tree                                   
 | 783  | [Minimum Distance Between BST Nodes][783]                | Tree                                   
+| 852  | [Peak Index in a Mountain Array][852]                    | Binary Search                                   
+
 
 ## medium（2）
 
@@ -93,3 +95,4 @@
 [731]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/731/README.md
 [732]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/hard/732/README.md
 [783]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/783/README.md
+[852]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/852/README.md

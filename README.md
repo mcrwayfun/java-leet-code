@@ -41,6 +41,7 @@
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
+| 349  | [Intersection of Two Arrays][349]                        | Hash Table、Binary Search                                   
 | 530  | [Minimum Absolute Difference in BST][530]                | Tree                                   
 | 783  | [Minimum Distance Between BST Nodes][783]                | Tree                                   
 | 852  | [Peak Index in a Mountain Array][852]                    | Binary Search                                   
@@ -89,6 +90,7 @@
 [278]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/278/README.md
 [283]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/283/README.md
 [344]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/344/README.md
+[349]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/349/README.md
 [387]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/387/README.md
 [530]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/530/README.md
 [729]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/729/README.md

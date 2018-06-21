@@ -37,7 +37,7 @@
 | 344  | [Reverse String][344]                                	  | String  
 | 387  | [First Unique Character in a String][387]                | String HashTable
 
-## easy（2）
+## easy（7）
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
@@ -45,6 +45,7 @@
 | 349  | [Intersection of Two Arrays][349]                        | HashTable BinarySearch                                   
 | 350  | [Intersection of Two Arrays II][350]                     | Array Sort                                  
 | 530  | [Minimum Absolute Difference in BST][530]                | Tree                                   
+| 744  | [Find Smallest Letter Greater Than Target][744]          | Array HashTable                                   
 | 783  | [Minimum Distance Between BST Nodes][783]                | Tree                                   
 | 852  | [Peak Index in a Mountain Array][852]                    | Binary Search                                   
 
@@ -101,5 +102,6 @@
 [729]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/729/README.md
 [731]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/731/README.md
 [732]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/hard/732/README.md
+[744]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/744/README.md
 [783]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/783/README.md
 [852]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/852/README.md

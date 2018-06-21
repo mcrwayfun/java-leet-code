@@ -41,11 +41,13 @@
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
-| 349  | [Intersection of Two Arrays][349]                        | Hash Table、Binary Search                                   
-| 350  | [Intersection of Two Arrays II][350]                     | Array、Sort                                  
+| 167  | [Two Sum II - Input array is sorted][167]                | Array HashTable                                    
+| 349  | [Intersection of Two Arrays][349]                        | HashTable BinarySearch                                   
+| 350  | [Intersection of Two Arrays II][350]                     | Array Sort                                  
 | 530  | [Minimum Absolute Difference in BST][530]                | Tree                                   
 | 783  | [Minimum Distance Between BST Nodes][783]                | Tree                                   
 | 852  | [Peak Index in a Mountain Array][852]                    | Binary Search                                   
+
 
 
 ## medium（2）
@@ -82,6 +84,7 @@
 [125]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/125/README.md
 [136]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/136/README.md
 [141]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/141/README.md
+[167]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/167/README.md
 [189]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/189/README.md
 [206]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/206/README.md
 [217]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/217/README.md

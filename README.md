@@ -1,5 +1,5 @@
 # java-leet-code
-每天一道leetCode，保持思维活跃
+持续更新leet-code题解
 
 ## explore（30）
 
@@ -45,6 +45,7 @@
 | 167  | [Two Sum II - Input array is sorted][167]                | Array HashTable                                    
 | 349  | [Intersection of Two Arrays][349]                        | HashTable BinarySearch                                   
 | 350  | [Intersection of Two Arrays II][350]                     | Array Sort                                  
+| 367  | [Valid Perfect Square][367]                              | Binary Search                                  
 | 530  | [Minimum Absolute Difference in BST][530]                | Tree                                   
 | 744  | [Find Smallest Letter Greater Than Target][744]          | Array HashTable                                   
 | 783  | [Minimum Distance Between BST Nodes][783]                | Tree                                   

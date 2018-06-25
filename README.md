@@ -37,7 +37,7 @@
 | 344  | [Reverse String][344]                                	  | String  
 | 387  | [First Unique Character in a String][387]                | String HashTable
 
-## easy（8）
+## easy（11）
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
@@ -46,6 +46,8 @@
 | 349  | [Intersection of Two Arrays][349]                        | HashTable BinarySearch                                   
 | 350  | [Intersection of Two Arrays II][350]                     | Array Sort                                  
 | 367  | [Valid Perfect Square][367]                              | Binary Search                                  
+| 374  | [Guess Number Higher or Lower][374]                      | Binary Search                                  
+| 441  | [Arranging Coins][441]                                   | Math                                  
 | 530  | [Minimum Absolute Difference in BST][530]                | Tree                                   
 | 744  | [Find Smallest Letter Greater Than Target][744]          | Array HashTable                                   
 | 783  | [Minimum Distance Between BST Nodes][783]                | Tree                                   
@@ -99,7 +101,10 @@
 [344]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/344/README.md
 [349]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/349/README.md
 [350]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/350/README.md
+[367]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/367/README.md
+[374]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/374/README.md
 [387]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/387/README.md
+[441]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/441/README.md
 [530]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/530/README.md
 [729]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/729/README.md
 [731]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/731/README.md

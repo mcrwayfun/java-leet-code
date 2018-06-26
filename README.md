@@ -37,11 +37,12 @@
 | 344  | [Reverse String][344]                                	  | String  
 | 387  | [First Unique Character in a String][387]                | String HashTable
 
-## easy（11）
+## easy（12）
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
 | 035  | [Search Insert Position][035]                            | Array HashTable                                    
+| 069  | [Sqrt(x)][069]                                           | Binary Search                                   
 | 167  | [Two Sum II - Input array is sorted][167]                | Array HashTable                                    
 | 349  | [Intersection of Two Arrays][349]                        | HashTable BinarySearch                                   
 | 350  | [Intersection of Two Arrays II][350]                     | Array Sort                                  
@@ -75,10 +76,12 @@
 [019]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/019/README.md
 [021]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/021/README.md
 [026]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/026/README.md
+[028]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/028/README.md
 [035]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/035/README.md
 [036]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/036/README.md
 [048]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/048/README.md
 [065]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/065/README.md
+[069]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/069/README.md
 [088]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/088/README.md
 [098]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/098/README.md
 [101]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/101/README.md

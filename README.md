@@ -60,8 +60,10 @@
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
+| 454  | [4Sum II][454]                					          | Hash Table                                   
 | 729  | [My Calendar I][729]                					  | Tree                                   
 | 731  | [My Calendar II][731]                					  | Tree                                   
+
 
 ## hard（1）
 
@@ -108,6 +110,7 @@
 [374]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/374/README.md
 [387]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/387/README.md
 [441]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/441/README.md
+[454]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/454/README.md
 [530]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/530/README.md
 [729]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/729/README.md
 [731]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/731/README.md

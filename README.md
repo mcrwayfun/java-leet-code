@@ -60,6 +60,7 @@
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
+| 230  | [Kth Smallest Element in a BST][230]                	  | Binary Search                                   
 | 454  | [4Sum II][454]                					          | Hash Table                                   
 | 729  | [My Calendar I][729]                					  | Tree                                   
 | 731  | [My Calendar II][731]                					  | Tree                                   

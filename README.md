@@ -56,11 +56,12 @@
 
 
 
-## medium（2）
+## medium（5）
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
 | 230  | [Kth Smallest Element in a BST][230]                	  | Binary Search                                   
+| 392  | [Is Subsequence][392]                	                  | Two pointer                                  
 | 454  | [4Sum II][454]                					          | Hash Table                                   
 | 729  | [My Calendar I][729]                					  | Tree                                   
 | 731  | [My Calendar II][731]                					  | Tree                                   
@@ -99,6 +100,7 @@
 [189]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/189/README.md
 [206]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/206/README.md
 [217]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/217/README.md
+[230]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/230/README.md
 [234]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/234/README.md
 [237]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/237/README.md
 [242]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/242/README.md
@@ -110,6 +112,7 @@
 [367]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/367/README.md
 [374]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/374/README.md
 [387]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/387/README.md
+[392]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/392/README.md
 [441]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/441/README.md
 [454]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/454/README.md
 [530]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/530/README.md

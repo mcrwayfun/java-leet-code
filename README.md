@@ -56,13 +56,15 @@
 
 
 
-## medium（6）
+## medium（7）
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
 | 153  | [Find Minimum in Rotated Sorted Array][153]              | Binary Search                                   
+| 162  | [Find Peak Element][162]                                 | Binary Search                                   
 | 230  | [Kth Smallest Element in a BST][230]                	  | Binary Search                                   
 | 392  | [Is Subsequence][392]                	                  | Two pointer                                  
+| 436  | [Find Right Interval][436]                	              | Hash Table                                 
 | 454  | [4Sum II][454]                					          | Hash Table                                   
 | 729  | [My Calendar I][729]                					  | Tree                                   
 | 731  | [My Calendar II][731]                					  | Tree                                   
@@ -98,6 +100,7 @@
 [136]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/136/README.md
 [141]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/141/README.md
 [153]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/153/README.md
+[162]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/162/README.md
 [167]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/167/README.md
 [189]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/189/README.md
 [206]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/206/README.md
@@ -115,6 +118,7 @@
 [374]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/374/README.md
 [387]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/387/README.md
 [392]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/392/README.md
+[436]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/436/README.md
 [441]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/441/README.md
 [454]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/454/README.md
 [530]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/530/README.md

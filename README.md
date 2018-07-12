@@ -63,6 +63,7 @@
 | 153  | [Find Minimum in Rotated Sorted Array][153]              | Binary Search                                   
 | 162  | [Find Peak Element][162]                                 | Binary Search                                   
 | 230  | [Kth Smallest Element in a BST][230]                	  | Binary Search                                   
+| 240  | [Search a 2D Matrix II][240]                	          |                                    
 | 392  | [Is Subsequence][392]                	                  | Two pointer                                  
 | 436  | [Find Right Interval][436]                	              | Hash Table                                 
 | 454  | [4Sum II][454]                					          | Hash Table                                   
@@ -108,6 +109,7 @@
 [230]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/230/README.md
 [234]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/234/README.md
 [237]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/237/README.md
+[240]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/240/README.md
 [242]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/242/README.md
 [278]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/278/README.md
 [283]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/283/README.md

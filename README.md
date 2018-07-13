@@ -43,6 +43,7 @@
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
 | 035  | [Search Insert Position][035]                            | Array HashTable                                    
 | 069  | [Sqrt(x)][069]                                           | Binary Search                                   
+| 083  | [Remove Duplicates from Sorted List][083]                | Linked List                                   
 | 167  | [Two Sum II - Input array is sorted][167]                | Array HashTable                                    
 | 349  | [Intersection of Two Arrays][349]                        | HashTable BinarySearch                                   
 | 350  | [Intersection of Two Arrays II][350]                     | Array Sort                                  
@@ -90,6 +91,7 @@
 [048]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/048/README.md
 [065]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/065/README.md
 [069]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/069/README.md
+[083]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/083/README.md
 [088]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/088/README.md
 [098]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/098/README.md
 [101]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/101/README.md

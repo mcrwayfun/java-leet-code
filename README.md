@@ -37,7 +37,7 @@
 | 344  | [Reverse String][344]                                	  | String  
 | 387  | [First Unique Character in a String][387]                | String HashTable
 
-## easy（12）
+## easy（14）
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
@@ -45,6 +45,7 @@
 | 069  | [Sqrt(x)][069]                                           | Binary Search                                   
 | 083  | [Remove Duplicates from Sorted List][083]                | Linked List                                   
 | 167  | [Two Sum II - Input array is sorted][167]                | Array HashTable                                    
+| 203  | [Remove Linked List Elements][203]                       | Linked List                                    
 | 349  | [Intersection of Two Arrays][349]                        | HashTable BinarySearch                                   
 | 350  | [Intersection of Two Arrays II][350]                     | Array Sort                                  
 | 367  | [Valid Perfect Square][367]                              | Binary Search                                  
@@ -106,6 +107,7 @@
 [162]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/162/README.md
 [167]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/167/README.md
 [189]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/189/README.md
+[203]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/203/README.md
 [206]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/206/README.md
 [217]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/217/README.md
 [230]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/230/README.md

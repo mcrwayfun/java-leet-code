@@ -1,6 +1,7 @@
 package com.qingtian.easy._203;
 
 import com.qingtian.pojo.ListNode;
+import com.qingtian.util.ListNodeUtil;
 
 /**
  * @author mcrwayfun
@@ -50,6 +51,6 @@ public class Solution1 {
         head5.next = head6;
         int val = 1;
         ListNode listNode = new Solution1().removeElements(head, val);
-        listNode.print();
+        ListNodeUtil.print(listNode);
     }
 }

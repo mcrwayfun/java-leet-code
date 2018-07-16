@@ -105,4 +105,4 @@ class Solution {
     }
 }
 ```
-[title]: https://leetcode.com/submissions/detail/156739883/
+[title]: https://leetcode.com/problems/palindrome-linked-list/description/

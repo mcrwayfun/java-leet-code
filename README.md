@@ -70,6 +70,7 @@
 | 392  | [Is Subsequence][392]                	                  | Two pointer                                  
 | 436  | [Find Right Interval][436]                	              | Hash Table                                 
 | 454  | [4Sum II][454]                					          | Hash Table                                   
+| 725  | [Split Linked List in Parts][725]                		  | Linked List                                   
 | 729  | [My Calendar I][729]                					  | Tree                                   
 | 731  | [My Calendar II][731]                					  | Tree                                   
 
@@ -130,6 +131,7 @@
 [441]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/441/README.md
 [454]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/454/README.md
 [530]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/530/README.md
+[725]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/725/README.md
 [729]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/729/README.md
 [731]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/731/README.md
 [732]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/hard/732/README.md

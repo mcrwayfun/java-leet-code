@@ -53,6 +53,7 @@
 | 374  | [Guess Number Higher or Lower][374]                      | Binary Search                                  
 | 441  | [Arranging Coins][441]                                   | Math                                  
 | 530  | [Minimum Absolute Difference in BST][530]                | Tree                                   
+| 682  | [Baseball Game][682]                                     | Stack                                   
 | 744  | [Find Smallest Letter Greater Than Target][744]          | Array HashTable                                   
 | 783  | [Minimum Distance Between BST Nodes][783]                | Tree                                   
 | 852  | [Peak Index in a Mountain Array][852]                    | Binary Search                                   
@@ -131,6 +132,7 @@
 [441]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/441/README.md
 [454]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/454/README.md
 [530]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/530/README.md
+[682]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/682/README.md
 [725]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/725/README.md
 [729]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/729/README.md
 [731]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/731/README.md

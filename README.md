@@ -10,6 +10,7 @@
 | 008  | [String to Integer][008]                                 | String Array
 | 014  | [Longest Common Prefix][014]                             | String Array
 | 019  | [Remove Nth Node From End of List][019]                  | LinkedList
+| 020  | [Valid Parentheses][020]                                 | Stack
 | 021  | [Merge Two Sorted Lists][021]                            | LinkedList
 | 026  | [Remove Duplicates from Sorted Array][026]               | Array 
 | 028  | [Implement strStr][028]                                  | String Array 
@@ -86,6 +87,7 @@
 [008]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/008/README.md
 [014]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/014/README.md
 [019]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/019/README.md
+[020]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/020/README.md
 [021]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/021/README.md
 [026]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/026/README.md
 [028]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/028/README.md

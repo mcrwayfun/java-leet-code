@@ -36,6 +36,7 @@
 | 283  | [Move Zeroes][283]                                		  | Array  
 | 344  | [Reverse String][344]                                	  | String  
 | 387  | [First Unique Character in a String][387]                | String HashTable
+| 905  | [Sort-array-by-parity][905]                              | Array
 
 ## easy（15）
 
@@ -142,3 +143,4 @@
 [783]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/783/README.md
 [844]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/844/README.md
 [852]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/852/README.md
+[905]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/905/README.md

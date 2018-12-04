@@ -16,8 +16,8 @@
 | 028  | [Implement strStr][028]                                  | String Array 
 | 036  | [Valid Sudoku][036]                                      | Array HashSet
 | 048  | [Rotate Image][048]                                      | Array
-| 058  | [Length of Last Word][058]                               | String
 | 065  | [Plus One][065]                                          | Array                                   
+| 070  | [Climbing Stairs][070]                                   | Dynamic Programming                                   
 | 088  | [Merge Sorted Array][088]                                | Array Sorted                                   
 | 098  | [Validate Binary Search Tree][098]                       | Tree 
 | 101  | [Symmetric Tree][101]                       			  | Tree     
@@ -98,9 +98,9 @@
 [035]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/035/README.md
 [036]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/036/README.md
 [048]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/048/README.md
-[058]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/058/README.md
 [065]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/065/README.md
 [069]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/069/README.md
+[070]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/070/README.md
 [083]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/083/README.md
 [088]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/088/README.md
 [098]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/098/README.md

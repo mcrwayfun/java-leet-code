@@ -31,6 +31,7 @@
 | 189  | [Rotate Array][189]                                      | Array   
 | 206  | [Reverse a singly linked list][206]                      | LinkedList   
 | 217  | [Contains Duplicate][217]                                | Array
+| 226  | [Invert Binary Tree][226]                                | Binary Tree
 | 234  | [Palindrome Linked List][234]                            | LinkedList
 | 237  | [Delete Node in a Linked List][237]                      | LinkedList
 | 242  | [Valid Anagram][242]                                     | String Array 
@@ -120,6 +121,7 @@
 [203]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/203/README.md
 [206]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/206/README.md
 [217]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/217/README.md
+[226]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/226/README.md
 [230]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/230/README.md
 [234]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/234/README.md
 [237]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/explore/237/README.md

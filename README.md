@@ -39,6 +39,7 @@
 | 283  | [Move Zeroes][283]                                		  | Array  
 | 344  | [Reverse String][344]                                	  | String  
 | 387  | [First Unique Character in a String][387]                | String HashTable
+| 589  | [N-ary Tree Preorder Traversal][589]                     | Tree
 | 617  | [Merge Two Binary Trees][617]                            | Binary Tree
 | 905  | [Sort-array-by-parity][905]                              | Array
 
@@ -141,6 +142,7 @@
 [441]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/441/README.md
 [454]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/454/README.md
 [530]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/530/README.md
+[589]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/589/README.md
 [617]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/617/README.md
 [682]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/682/README.md
 [725]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/725/README.md

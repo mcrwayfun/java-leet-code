@@ -10,15 +10,12 @@ import com.qingtian.pojo.TreeNode;
 public class Solution {
 
     public int maxDepth(TreeNode root) {
-
-        if (null == root) {
+        if (root == null)
             return 0;
-        } else {
-            int i = maxDepth(root.left);
-            int j = maxDepth(root.right);
-            return (i < j) ? j + 1 : i + 1;
-        }
+
+        return Math.max(maxDepth(root.left), maxDepth(root.right)) + 1;
     }
+
 
     public static void main(String[] args) {
         TreeNode node1 = new TreeNode(1);
@@ -31,6 +28,7 @@ public class Solution {
         node2.left = node4;
         node2.right = node5;
 
-        new Solution().maxDepth(node1);
+        int maxDepth = new Solution().maxDepth(node1);
+        System.out.println(maxDepth);
     }
 }

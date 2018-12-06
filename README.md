@@ -1,7 +1,7 @@
 # java-leet-code
 持续更新leet-code题解
 
-## easy（57）
+## easy（58）
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
@@ -51,6 +51,7 @@
 | 387  | [First Unique Character in a String][387]                | String HashTable
 | 441  | [Arranging Coins][441]                                   | Math                                  
 | 530  | [Minimum Absolute Difference in BST][530]                | Tree                                   
+| 530  | [Maximum Depth of N-ary Tree][559]                       | Tree                                   
 | 589  | [N-ary Tree Preorder Traversal][589]                     | Tree
 | 590  | [N-ary Tree Postorder Traversal][590]                    | Tree
 | 617  | [Merge Two Binary Trees][617]                            | Binary Tree
@@ -138,6 +139,7 @@
 [441]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/441/README.md
 [454]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/454/README.md
 [530]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/530/README.md
+[559]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/559/README.md
 [589]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/589/README.md
 [590]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/590/README.md
 [617]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/617/README.md

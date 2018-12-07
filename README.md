@@ -1,7 +1,7 @@
 # java-leet-code
 持续更新leet-code题解
 
-## easy（58）
+## easy（63）
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
@@ -49,6 +49,7 @@
 | 367  | [Valid Perfect Square][367]                              | Binary Search                                  
 | 374  | [Guess Number Higher or Lower][374]                      | Binary Search                                  
 | 387  | [First Unique Character in a String][387]                | String HashTable
+| 429  | [N-ary Tree Level Order Traversal][429]                  | Tree
 | 441  | [Arranging Coins][441]                                   | Math                                  
 | 530  | [Minimum Absolute Difference in BST][530]                | Tree                                   
 | 530  | [Maximum Depth of N-ary Tree][559]                       | Tree                                   
@@ -139,6 +140,7 @@
 [374]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/374/README.md
 [387]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/387/README.md
 [392]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/392/README.md
+[429]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/429/README.md
 [436]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/436/README.md
 [441]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/441/README.md
 [454]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/454/README.md

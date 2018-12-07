@@ -44,6 +44,7 @@
 | 242  | [Valid Anagram][242]                                     | String Array 
 | 278  | [First Bad Version][278]                                 | Array 
 | 283  | [Move Zeroes][283]                                		  | Array  
+| 290  | [Word Pattern][290]                                	  | Hash Table  
 | 344  | [Reverse String][344]                                	  | String
 | 349  | [Intersection of Two Arrays][349]                        | HashTable BinarySearch                                   
 | 350  | [Intersection of Two Arrays II][350]                     | Array Sort                                  
@@ -139,6 +140,7 @@
 [242]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/242/README.md
 [278]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/278/README.md
 [283]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/283/README.md
+[290]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/290/README.md
 [344]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/344/README.md
 [349]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/349/README.md
 [350]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/350/README.md

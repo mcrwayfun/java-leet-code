@@ -1,7 +1,7 @@
 # java-leet-code
 持续更新leet-code题解
 
-## easy（64）
+## easy（65）
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
@@ -55,6 +55,7 @@
 | 530  | [Maximum Depth of N-ary Tree][559]                       | Tree                                   
 | 589  | [N-ary Tree Preorder Traversal][589]                     | Tree
 | 590  | [N-ary Tree Postorder Traversal][590]                    | Tree
+| 606  | [Construct String from Binary Tree][606]                 | Tree
 | 617  | [Merge Two Binary Trees][617]                            | Binary Tree
 | 637  | [Average of Levels in Binary Tree][637]                  | Tree
 | 653  | [Two Sum IV - Input is a BST][653]                       | Tree
@@ -149,6 +150,7 @@
 [559]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/559/README.md
 [589]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/589/README.md
 [590]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/590/README.md
+[606]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/606/README.md
 [617]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/617/README.md
 [637]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/637/README.md
 [653]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/653/README.md

@@ -1,7 +1,7 @@
 # java-leet-code
 持续更新leet-code题解
 
-## easy（65）
+## easy（67）
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
@@ -23,6 +23,7 @@
 | 088  | [Merge Sorted Array][088]                                | Array Sorted
 | 083  | [Remove Duplicates from Sorted List][083]                | Linked List                                   
 | 098  | [Validate Binary Search Tree][098]                       | Tree 
+| 100  | [Same Tree][100]                                         | Tree 
 | 101  | [Symmetric Tree][101]                       			  | Tree     
 | 102  | [Binary Tree Level Order Traversal][102]                 | Tree                                   
 | 104  | [Maximum Depth of Binary Tree][104]                      | Tree                                   
@@ -112,6 +113,7 @@
 [083]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/083/README.md
 [088]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/088/README.md
 [098]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/098/README.md
+[100]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/100/README.md
 [101]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/101/README.md
 [102]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/102/README.md
 [104]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/104/README.md

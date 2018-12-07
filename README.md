@@ -1,7 +1,7 @@
 # java-leet-code
 持续更新leet-code题解
 
-## easy（63）
+## easy（64）
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
@@ -57,6 +57,7 @@
 | 590  | [N-ary Tree Postorder Traversal][590]                    | Tree
 | 617  | [Merge Two Binary Trees][617]                            | Binary Tree
 | 637  | [Average of Levels in Binary Tree][637]                  | Tree
+| 653  | [Two Sum IV - Input is a BST][653]                       | Tree
 | 669  | [Trim a Binary Search Tree][669]                         | Tree
 | 682  | [Baseball Game][682]                                     | Stack                                   
 | 700  | [Search in a Binary Search Tree][700]                    | Binary Tree                                   
@@ -150,6 +151,7 @@
 [590]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/590/README.md
 [617]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/617/README.md
 [637]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/637/README.md
+[653]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/653/README.md
 [669]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/669/README.md
 [682]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/682/README.md
 [700]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/700/README.md

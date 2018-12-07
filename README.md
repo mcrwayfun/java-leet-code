@@ -66,6 +66,7 @@
 | 669  | [Trim a Binary Search Tree][669]                         | Tree
 | 682  | [Baseball Game][682]                                     | Stack                                   
 | 700  | [Search in a Binary Search Tree][700]                    | Binary Tree                                   
+| 709  | [To Lower Case][709]                                     | String                                  
 | 744  | [Find Smallest Letter Greater Than Target][744]          | Array HashTable                                   
 | 783  | [Minimum Distance Between BST Nodes][783]                | Tree                                   
 | 844  | [Backspace String Compare][844]                          | Stack Two Pointer                                   
@@ -165,6 +166,7 @@
 [669]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/669/README.md
 [682]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/682/README.md
 [700]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/700/README.md
+[709]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/709/README.md
 [725]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/725/README.md
 [729]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/729/README.md
 [731]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/731/README.md

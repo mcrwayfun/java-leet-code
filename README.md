@@ -1,7 +1,7 @@
 # java-leet-code
 持续更新leet-code题解
 
-## easy（68）
+## easy（70）
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
@@ -56,6 +56,7 @@
 | 441  | [Arranging Coins][441]                                   | Math                                  
 | 530  | [Minimum Absolute Difference in BST][530]                | Tree                                   
 | 538  | [Convert BST to Greater Tree][538]                       | Tree                                   
+| 543  | [Diameter of Binary Tree][543]                           | Tree                                   
 | 559  | [Maximum Depth of N-ary Tree][559]                       | Tree                                   
 | 563  | [Binary Tree Tilt][593]                                  | Tree                                   
 | 589  | [N-ary Tree Preorder Traversal][589]                     | Tree
@@ -157,6 +158,7 @@
 [454]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/454/README.md
 [530]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/530/README.md
 [538]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/538/README.md
+[543]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/543/README.md
 [559]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/559/README.md
 [563]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/563/README.md
 [589]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/589/README.md

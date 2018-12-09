@@ -68,6 +68,7 @@
 | 637  | [Average of Levels in Binary Tree][637]                  | Tree
 | 653  | [Two Sum IV - Input is a BST][653]                       | Tree
 | 669  | [Trim a Binary Search Tree][669]                         | Tree
+| 671  | [Second Minimum Node In a Binary Tree][671]              | Tree
 | 682  | [Baseball Game][682]                                     | Stack                                   
 | 700  | [Search in a Binary Search Tree][700]                    | Binary Tree                                   
 | 709  | [To Lower Case][709]                                     | String                                  
@@ -172,6 +173,7 @@
 [637]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/637/README.md
 [653]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/653/README.md
 [669]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/669/README.md
+[671]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/671/README.md
 [682]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/682/README.md
 [700]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/700/README.md
 [709]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/709/README.md

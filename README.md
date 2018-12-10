@@ -1,7 +1,7 @@
 # java-leet-code
 持续更新leet-code题解
 
-## easy（70）
+## easy（76）
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
@@ -41,6 +41,7 @@
 | 217  | [Contains Duplicate][217]                                | Array
 | 226  | [Invert Binary Tree][226]                                | Binary Tree
 | 234  | [Palindrome Linked List][234]                            | LinkedList
+| 235  | [Lowest Common Ancestor of a Binary Search Tree][235]    | Tree
 | 237  | [Delete Node in a Linked List][237]                      | LinkedList
 | 242  | [Valid Anagram][242]                                     | String Array 
 | 257  | [Binary Tree Paths][257]                                 | Tree 
@@ -142,6 +143,7 @@
 [226]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/226/README.md
 [230]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/230/README.md
 [234]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/234/README.md
+[235]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/235/README.md
 [237]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/237/README.md
 [240]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/240/README.md
 [242]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/242/README.md

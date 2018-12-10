@@ -62,7 +62,7 @@
 | 538  | [Convert BST to Greater Tree][538]                       | Tree                                   
 | 543  | [Diameter of Binary Tree][543]                           | Tree                                   
 | 559  | [Maximum Depth of N-ary Tree][559]                       | Tree                                   
-| 563  | [Binary Tree Tilt][593]                                  | Tree                                   
+| 563  | [Binary Tree Tilt][563]                                  | Tree                                   
 | 589  | [N-ary Tree Preorder Traversal][589]                     | Tree
 | 590  | [N-ary Tree Postorder Traversal][590]                    | Tree
 | 606  | [Construct String from Binary Tree][606]                 | Tree

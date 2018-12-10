@@ -1,7 +1,7 @@
 # java-leet-code
 持续更新leet-code题解
 
-## easy（77）
+## easy（78）
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
@@ -63,6 +63,7 @@
 | 543  | [Diameter of Binary Tree][543]                           | Tree                                   
 | 559  | [Maximum Depth of N-ary Tree][559]                       | Tree                                   
 | 563  | [Binary Tree Tilt][563]                                  | Tree                                   
+| 572  | [Subtree of Another Tree][572]                           | Tree                                   
 | 589  | [N-ary Tree Preorder Traversal][589]                     | Tree
 | 590  | [N-ary Tree Postorder Traversal][590]                    | Tree
 | 606  | [Construct String from Binary Tree][606]                 | Tree
@@ -170,6 +171,7 @@
 [543]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/543/README.md
 [559]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/559/README.md
 [563]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/563/README.md
+[572]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/572/README.md
 [589]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/589/README.md
 [590]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/590/README.md
 [606]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/606/README.md

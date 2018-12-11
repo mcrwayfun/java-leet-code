@@ -1,7 +1,7 @@
 # java-leet-code
 持续更新leet-code题解
 
-## easy（78）
+## easy（79）
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
@@ -29,6 +29,7 @@
 | 104  | [Maximum Depth of Binary Tree][104]                      | Tree                                   
 | 107  | [Binary Tree Level Order Traversal II][107]              | Tree                                   
 | 108  | [Convert Sorted Array to Binary Search Tree][108]        | Tree                                   
+| 110  | [Balanced Binary Tree][110]                              | Tree                                   
 | 122  | [Best Time to Buy and Sell Stock II][122]                | Array 
 | 125  | [Valid Palindrome][125]                                  | String Array 
 | 136  | [Single Number][136]                                     | Array            
@@ -130,6 +131,7 @@
 [104]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/104/README.md
 [107]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/107/README.md
 [108]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/108/README.md
+[110]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/110/README.md
 [122]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/122/README.md
 [125]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/125/README.md
 [136]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/136/README.md

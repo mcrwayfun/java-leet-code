@@ -30,6 +30,7 @@
 | 107  | [Binary Tree Level Order Traversal II][107]              | Tree                                   
 | 108  | [Convert Sorted Array to Binary Search Tree][108]        | Tree                                   
 | 110  | [Balanced Binary Tree][110]                              | Tree                                   
+| 111  | [Minimum Depth of Binary Tree][111]                      | Tree                                   
 | 112  | [Path Sum][112]                                          | Tree                                   
 | 122  | [Best Time to Buy and Sell Stock II][122]                | Array 
 | 125  | [Valid Palindrome][125]                                  | String Array 
@@ -134,6 +135,7 @@
 [107]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/107/README.md
 [108]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/108/README.md
 [110]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/110/README.md
+[111]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/111/README.md
 [112]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/112/README.md
 [122]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/122/README.md
 [125]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/125/README.md

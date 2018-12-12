@@ -1,7 +1,7 @@
 # java-leet-code
 持续更新leet-code题解
 
-## easy（82）
+## easy（83）
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
@@ -77,6 +77,7 @@
 | 669  | [Trim a Binary Search Tree][669]                         | Tree
 | 671  | [Second Minimum Node In a Binary Tree][671]              | Tree
 | 682  | [Baseball Game][682]                                     | Stack                                   
+| 687  | [Longest Univalue Path][687]                             | Tree                                   
 | 700  | [Search in a Binary Search Tree][700]                    | Binary Tree                                   
 | 709  | [To Lower Case][709]                                     | String                                  
 | 744  | [Find Smallest Letter Greater Than Target][744]          | Array HashTable                                   
@@ -189,6 +190,7 @@
 [669]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/669/README.md
 [671]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/671/README.md
 [682]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/682/README.md
+[687]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/687/README.md
 [700]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/700/README.md
 [709]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/709/README.md
 [725]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/725/README.md

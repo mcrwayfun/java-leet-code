@@ -29,7 +29,7 @@ public class Solution {
         int resR = root.right != null && root.right.val == root.val ? right + 1 : 0;
         res = Math.max(res, resL + resR);
 
-        // resL或者resR可能存在0，返回其
+        // 返回两条路径中最长的那条
         return Math.max(resL, resR);
     }
 

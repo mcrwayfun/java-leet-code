@@ -16,12 +16,16 @@ public class ListNodeUtil {
      * @param node
      */
     public static void print(ListNode node) {
+
+        StringBuilder res = new StringBuilder();
+        res.append("ListNode=[");
         ListNode current = node;
         while (current != null) {
-            System.out.print(current.val + " ");
+            res.append(current.val + "->");
             current = current.next;
         }
-        System.out.println();
+        res.append("Null]");
+        System.out.println(res.toString());
     }
 
     /**
@@ -35,7 +39,7 @@ public class ListNodeUtil {
         ListNode head = null;
         for (int i = 0; i < array.length; i++) {
             int val = array[i];
-            head = add(head,val);
+            head = add(head, val);
         }
 
         return head;
@@ -44,14 +48,14 @@ public class ListNodeUtil {
     private static ListNode add(ListNode head, int data) {
 
         ListNode insNode = new ListNode(data);
-        if(head == null){
+        if (head == null) {
             head = insNode;
             return head;
         }
 
         ListNode temp = head;
         ListNode cur = null;
-        while (temp != null){
+        while (temp != null) {
             cur = temp;
             temp = temp.next;
         }

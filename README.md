@@ -79,6 +79,7 @@
 | 682  | [Baseball Game][682]                                     | Stack                                   
 | 687  | [Longest Univalue Path][687]                             | Tree                                   
 | 700  | [Search in a Binary Search Tree][700]                    | Binary Tree                                   
+| 707  | [Design Linked List][707]                                | Linked List                                   
 | 709  | [To Lower Case][709]                                     | String                                  
 | 744  | [Find Smallest Letter Greater Than Target][744]          | Array HashTable                                   
 | 783  | [Minimum Distance Between BST Nodes][783]                | Tree                                   
@@ -193,6 +194,7 @@
 [682]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/682/README.md
 [687]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/687/README.md
 [700]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/700/README.md
+[707]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/707/README.md
 [709]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/709/README.md
 [725]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/725/README.md
 [729]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/729/README.md

@@ -58,6 +58,7 @@
 | 374  | [Guess Number Higher or Lower][374]                      | Binary Search                                  
 | 387  | [First Unique Character in a String][387]                | String HashTable
 | 404  | [Sum of Left Leaves][404]                                | Tree
+| 412  | [Fizz Buzz][412]                                         | Array
 | 429  | [N-ary Tree Level Order Traversal][429]                  | Tree
 | 437  | [Path Sum III][437]                                      | Tree
 | 441  | [Arranging Coins][441]                                   | Math                                  
@@ -171,6 +172,7 @@
 [387]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/387/README.md
 [392]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/392/README.md
 [404]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/404/README.md
+[412]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/412/README.md
 [429]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/429/README.md
 [436]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/436/README.md
 [437]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/437/README.md

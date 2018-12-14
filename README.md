@@ -55,6 +55,7 @@
 | 349  | [Intersection of Two Arrays][349]                        | HashTable BinarySearch                                   
 | 350  | [Intersection of Two Arrays II][350]                     | Array Sort                                  
 | 367  | [Valid Perfect Square][367]                              | Binary Search                                  
+| 371  | [Sum of Two Integers][371]                               | Bit Manipulation                                  
 | 374  | [Guess Number Higher or Lower][374]                      | Binary Search                                  
 | 387  | [First Unique Character in a String][387]                | String HashTable
 | 404  | [Sum of Left Leaves][404]                                | Tree
@@ -168,6 +169,7 @@
 [349]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/349/README.md
 [350]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/350/README.md
 [367]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/367/README.md
+[371]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/371/README.md
 [374]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/374/README.md
 [387]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/387/README.md
 [392]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/392/README.md

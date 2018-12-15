@@ -1,7 +1,7 @@
 # java-leet-code
 持续更新leet-code题解
 
-## easy（83）
+## easy（90）
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
@@ -50,6 +50,7 @@
 | 237  | [Delete Node in a Linked List][237]                      | LinkedList
 | 242  | [Valid Anagram][242]                                     | String Array 
 | 257  | [Binary Tree Paths][257]                                 | Tree 
+| 268  | [Missing Number][268]                                    | Math 
 | 278  | [First Bad Version][278]                                 | Array 
 | 283  | [Move Zeroes][283]                                		  | Array  
 | 290  | [Word Pattern][290]                                	  | Hash Table  
@@ -166,6 +167,7 @@
 [240]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/240/README.md
 [242]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/242/README.md
 [257]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/257/README.md
+[268]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/268/README.md
 [278]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/278/README.md
 [283]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/283/README.md
 [290]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/290/README.md

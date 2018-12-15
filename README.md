@@ -39,6 +39,7 @@
 | 160  | [Intersection of Two Linked Lists][160]                  | Linked List                                   
 | 167  | [Two Sum II - Input array is sorted][167]                | Array HashTable                                    
 | 169  | [Majority Element][169]                                  | Array                                    
+| 171  | [Excel Sheet Column Number][171]                         | Math                                    
 | 189  | [Rotate Array][189]                                      | Array   
 | 203  | [Remove Linked List Elements][203]                       | Linked List                                    
 | 206  | [Reverse a singly linked list][206]                      | LinkedList   
@@ -152,6 +153,7 @@
 [162]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/162/README.md
 [167]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/167/README.md
 [169]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/169/README.md
+[171]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/171/README.md
 [189]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/189/README.md
 [203]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/203/README.md
 [206]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/206/README.md

@@ -68,5 +68,39 @@ class Solution {
 }
 ```
 
+## 思路2
+使用快慢指针，但是需要注意的是
+1. 因为数组范围为[1,n]，所以索引0处无指向，可以使用该方法
+2. 必须存在重复数字
+3. 设置快慢指针，两者以不同速度移动，相遇时，必定在环上
+4. 重新设置一个指针，走相同步数直到相遇，相遇点为入环点
+
+```java
+public class Solution {
+
+    public int findDuplicate(int[] nums) {
+        if (nums == null || nums.length == 0)
+            return -1;
+
+        // 使用快慢指针前提是一定存在重复数且数字0不在范围内
+        int slow = 0;
+        int fast = nums[0];
+        while (slow != fast) {
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        }
+
+        int p = 0;
+        int entrance = nums[fast];
+        // 重设指针，走相同步数直至相遇，则相遇点为入环点
+        while (p != entrance) {
+            p = nums[p];
+            entrance = nums[entrance];
+        }
+
+        return p;
+    }
+}
+```
 
 [title]: https://leetcode.com/problems/find-the-duplicate-number/

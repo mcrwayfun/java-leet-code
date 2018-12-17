@@ -97,7 +97,7 @@
 | 905  | [Sort-array-by-parity][905]                              | Array
 
 
-## medium（10）
+## medium（11）
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
@@ -105,6 +105,7 @@
 | 162  | [Find Peak Element][162]                                 | Binary Search                                   
 | 230  | [Kth Smallest Element in a BST][230]                	  | Binary Search                                   
 | 240  | [Search a 2D Matrix II][240]                	          |                                    
+| 287  | [Find the Duplicate Number][287]                	      | Array                                   
 | 392  | [Is Subsequence][392]                	                  | Two pointer                                  
 | 436  | [Find Right Interval][436]                	              | Hash Table                                 
 | 454  | [4Sum II][454]                					          | Hash Table                                   
@@ -172,6 +173,7 @@
 [268]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/268/README.md
 [278]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/278/README.md
 [283]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/283/README.md
+[287]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/medium/287/README.md
 [290]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/290/README.md
 [344]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/344/README.md
 [349]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/349/README.md

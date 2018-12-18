@@ -1,7 +1,7 @@
 # java-leet-code
 持续更新leet-code题解
 
-## easy（91）
+## easy（92）
 
 | #    | Title                                          		  | Tag                                      |
 | :--- | :------------------------------------------------------- | :--------------------------------------- |
@@ -17,6 +17,7 @@
 | 035  | [Search Insert Position][035]                            | Array HashTable                                    
 | 036  | [Valid Sudoku][036]                                      | Array HashSet
 | 048  | [Rotate Image][048]                                      | Array
+| 053  | [Maximum Subarray][053]                                  | Array
 | 065  | [Plus One][065]                                          | Array
 | 069  | [Sqrt(x)][069]                                           | Binary Search                                   
 | 070  | [Climbing Stairs][070]                                   | Dynamic Programming                                   
@@ -132,6 +133,7 @@
 [035]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/035/README.md
 [036]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/036/README.md
 [048]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/048/README.md
+[053]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/053/README.md
 [065]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/065/README.md
 [069]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/069/README.md
 [070]: https://github.com/mcrwayfun/java-leet-code/blob/master/doc/easy/070/README.md
